@@ -69,7 +69,7 @@ else
   let s:norm_subtle     = s:medium_gray
   let s:purple          = s:dark_purple
   let s:cyan            = s:dark_cyan
-  let s:green           = s:dark_green
+  let s:green           = s:light_green
   let s:red             = s:dark_red
   let s:visual          = s:dark_purple
   let s:yellow          = s:dark_yellow
